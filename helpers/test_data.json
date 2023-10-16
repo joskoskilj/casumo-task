@@ -1,0 +1,6 @@
+{
+  "BASE_URL": "http://localhost:8080/",
+  "input_endpoint": ":input",
+  "default_response": "Send GET to /:input"
+}
+
